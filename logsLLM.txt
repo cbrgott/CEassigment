@@ -1,0 +1,11 @@
+*prompt 1*
+
+Give me the unittest for the next functions: actfunc, derivactfunc, forwardprop, backwardprop
+
+LLM answer: it provides me the unittest
+
+*prompt 2:
+
+Give me a Dockerfile to set up a Jupyterlab enviroment. I only need numpy to be installed
+
+LLM answer: it provides me the Dockerfile
