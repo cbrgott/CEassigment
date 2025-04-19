@@ -1,7 +1,7 @@
 # Use official Python image as base
 FROM python:3.9-slim
 
-# Install Jupyter Lab and dependencies - we only use numpy
+# Install Jupyter Lab and dependencies - we only need numpy
 RUN pip install jupyterlab numpy
 
 # Set up the working directory
