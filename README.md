@@ -1,6 +1,6 @@
 # CEassignment
 
-In this repository you will find a Jupyter notebook with the assignment of implement a 2 layers neural network.
+In this repository you will find a Jupyter notebook with the assignment of implementing a 2 layers neural network.
 
 ## Requirements
 
