@@ -2,7 +2,7 @@
 FROM python:3.9-slim
 
 # Install Jupyter Lab and dependencies - we only need numpy
-RUN pip install jupyterlab numpy
+RUN pip install --upgrade pip && pip install jupyterlab numpy
 
 # Set up the working directory
 WORKDIR /app
